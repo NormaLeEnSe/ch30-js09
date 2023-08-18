@@ -1,0 +1,23 @@
+{
+  "name": "js09-nodejs",
+  "version": "1.0.1",
+  "description": "Uso de node y Axios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/NormaLeEnSe/ch30-js09.git)"
+  },
+  "keywords": [
+    "axios",
+    "node",
+    "js"
+  ],
+  "author": "Norma Leticia",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.1"
+  }
+}
